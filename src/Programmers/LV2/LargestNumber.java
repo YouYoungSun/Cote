@@ -7,6 +7,6 @@ public class LargestNumber {
         return "";
     }
     public static void main(String[] args) {
-
+        int[] numbers = {6,10,2};
     }
 }
